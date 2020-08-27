@@ -2,6 +2,16 @@
     color: #97c93e !important;
 }
 
+.btn-gl{
+    background-color: #97c93e;
+    color: white;
+}
+
+.btn-gl:hover{
+    background-color: #82ad36;
+    color: white;
+}
+
 #main .carousel-inner{
     max-height: 70vh;
     object-fit: cover;
